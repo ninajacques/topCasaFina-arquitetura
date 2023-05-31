@@ -1,1 +1,1 @@
-Page developed during a program about CSS an HTML.
+Page developed during a program about CSS, bootstrap and HTML.
